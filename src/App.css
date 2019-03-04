@@ -1,0 +1,60 @@
+.container {
+  margin-top: 10px;
+}
+
+.purchase-card {
+  width: 350px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 1em;
+}
+
+.delivery-card {
+  width: 400px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 1em;
+}
+.show-grid {
+  padding-bottom: 1em;
+}
+
+.collapseBtn{
+  margin-bottom: 1.5em;
+  background-color: #ff0000;
+}
+
+.collapseBtn:hover {
+  background-color: #cc0000
+}
+
+.price-strike {
+  text-decoration-line: line-through;
+  color:grey;
+}
+
+.nav {
+  background-color: rgb(220,20,60);
+}
+
+.my-account-link {
+  color: white;
+}
+
+.my-account-link:hover {
+  color:grey
+}
+
+.h1-title {
+  text-align: center;
+}
+
+.btn-round {
+  background-color: #00cc00;
+}
+
+.btn-round:hover {
+  background-color: #009900;
+}
+
+.Combo-Box-Delivery {
+  width: 100px;
+}

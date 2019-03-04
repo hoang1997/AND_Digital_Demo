@@ -1,3 +1,8 @@
+
+First Run "npm install" to download dependencies
+
+Then Run "npm start" to start a local development server and build.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
